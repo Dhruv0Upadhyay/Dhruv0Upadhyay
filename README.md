@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **RTL designing**
 
-- 📫 How to reach me **ds87702@gmail.com**
+- 📫 How to reach me: **ds87702@gmail.com**
 
 - ⚡ Fun fact **I dont know**
 
