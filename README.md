@@ -39,3 +39,4 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruv0upadhyay" alt="dhruv0upadhyay" /></a> </p>
 
 [![Dhruv0Upadhyay's GitHub | Stats](https://stats.quine.sh/Dhruv0Upadhyay/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Dhruv0Upadhyay)
+[![Dhruv0Upadhyay's GitHub | Topics](https://stats.quine.sh/Dhruv0Upadhyay/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Dhruv0Upadhyay)
