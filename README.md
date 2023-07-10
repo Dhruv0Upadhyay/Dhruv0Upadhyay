@@ -37,3 +37,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv0upadhyay&theme=dark" alt="dhruv0upadhyay" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruv0upadhyay" alt="dhruv0upadhyay" /></a> </p>
+
+[![Dhruv0Upadhyay's GitHub | Stats](https://stats.quine.sh/Dhruv0Upadhyay/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Dhruv0Upadhyay)
