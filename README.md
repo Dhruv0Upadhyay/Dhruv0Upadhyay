@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **System Verilog**
 
-- 👯 I’m looking to share knowledge on **Flutter**
+- 👯 I’m looking to share knowledge on **UVM**
 
 - 🤝 I’m looking collaborate and guide on **Verilog projects**
 
